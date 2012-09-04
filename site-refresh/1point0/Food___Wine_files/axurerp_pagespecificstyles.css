@@ -1,0 +1,1338 @@
+﻿body {
+    margin: 0px;
+    background-color: #FEFEFE;
+    text-align: center;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+    position: relative;
+    left: -10px;
+    width: 948px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../Food___Wine_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:220px;
+    height:80px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:86px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:216px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3 {
+    position:absolute;
+    left:778px;
+    top:10px;
+    width:60px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:848px;
+    top:10px;
+    width:110px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:838px;
+    top:10px;
+    width:10px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_menu {
+    background-image: url('../Food___Wine_files/u7_menu.png');
+}
+
+.u7_menu {
+    position:absolute;
+    left:242px;
+    top:55px;
+    width:524px;
+    height:43px;
+}
+
+#u7_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:521px;
+    height:40px;
+}
+
+#u8 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:514px;
+    height:33px
+}
+
+.u9_mouseOver {
+    background-image: url('../Food___Wine_files/u9_mouseOver.png');
+}
+
+.u9_selected {
+    background-image: url('../Food___Wine_files/u9_selected.png');
+}
+
+.u9_normal {
+    background-image: url('../Food___Wine_files/u9_mouseOver.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:170px;
+    height:28px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:34px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_mouseOver {
+    background-image: url('../Food___Wine_files/u11_mouseOver.png');
+}
+
+.u11_selected {
+    background-image: url('../Food___Wine_files/u9_selected.png');
+}
+
+.u11_normal {
+    background-image: url('../Food___Wine_files/u11_mouseOver.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:170px;
+    top:0px;
+    width:170px;
+    height:28px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:34px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_selected {
+    background-image: url('../Food___Wine_files/u9_selected.png');
+}
+
+.u13_normal {
+    background-image: url('../Food___Wine_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:340px;
+    top:0px;
+    width:170px;
+    height:28px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:34px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:166px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_menu {
+    background-image: url('../Food___Wine_files/u15_menu.png');
+}
+
+.u15_menu {
+    position:absolute;
+    left:0px;
+    top:28px;
+    width:181px;
+    height:175px;
+}
+
+#u15_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:178px;
+    height:172px;
+}
+
+#u16 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:171px;
+    height:165px
+}
+
+.u17_mouseOver {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u17_selected {
+    background-image: url('../Food___Wine_files/u17_selected.png');
+}
+
+.u17_normal {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:166px;
+    height:20px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:172px;
+    height:26px;
+}
+
+.u18 {
+    position:absolute;
+    left:10px;
+    top:3px;
+    width:154px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_mouseOver {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u19_selected {
+    background-image: url('../Food___Wine_files/u17_selected.png');
+}
+
+.u19_normal {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:166px;
+    height:20px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:172px;
+    height:26px;
+}
+
+.u20 {
+    position:absolute;
+    left:10px;
+    top:3px;
+    width:154px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_mouseOver {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u21_selected {
+    background-image: url('../Food___Wine_files/u17_selected.png');
+}
+
+.u21_normal {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:166px;
+    height:20px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:172px;
+    height:26px;
+}
+
+.u22 {
+    position:absolute;
+    left:10px;
+    top:3px;
+    width:154px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_mouseOver {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u23_selected {
+    background-image: url('../Food___Wine_files/u17_selected.png');
+}
+
+.u23_normal {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:166px;
+    height:20px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:172px;
+    height:26px;
+}
+
+.u24 {
+    position:absolute;
+    left:10px;
+    top:3px;
+    width:154px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_mouseOver {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u25_selected {
+    background-image: url('../Food___Wine_files/u17_selected.png');
+}
+
+.u25_normal {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:166px;
+    height:20px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:172px;
+    height:26px;
+}
+
+.u26 {
+    position:absolute;
+    left:10px;
+    top:3px;
+    width:154px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_mouseOver {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u27_selected {
+    background-image: url('../Food___Wine_files/u17_selected.png');
+}
+
+.u27_normal {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:0px;
+    top:100px;
+    width:166px;
+    height:20px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:172px;
+    height:26px;
+}
+
+.u28 {
+    position:absolute;
+    left:10px;
+    top:3px;
+    width:154px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_mouseOver {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u29_selected {
+    background-image: url('../Food___Wine_files/u17_selected.png');
+}
+
+.u29_normal {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:0px;
+    top:120px;
+    width:166px;
+    height:20px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:172px;
+    height:26px;
+}
+
+.u30 {
+    position:absolute;
+    left:10px;
+    top:3px;
+    width:154px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_mouseOver {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u31_selected {
+    background-image: url('../Food___Wine_files/u17_selected.png');
+}
+
+.u31_normal {
+    background-image: url('../Food___Wine_files/u17_mouseOver.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:0px;
+    top:140px;
+    width:166px;
+    height:20px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:172px;
+    height:26px;
+}
+
+.u32 {
+    position:absolute;
+    left:10px;
+    top:3px;
+    width:154px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_menu {
+    background-image: url('../Food___Wine_files/u33_menu.png');
+}
+
+.u33_menu {
+    position:absolute;
+    left:170px;
+    top:28px;
+    width:182px;
+    height:95px;
+}
+
+#u33_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:179px;
+    height:92px;
+}
+
+#u34 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:172px;
+    height:85px
+}
+
+.u35_mouseOver {
+    background-image: url('../Food___Wine_files/u35_mouseOver.png');
+}
+
+.u35_selected {
+    background-image: url('../Food___Wine_files/u35_selected.png');
+}
+
+.u35_normal {
+    background-image: url('../Food___Wine_files/u35_mouseOver.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:167px;
+    height:20px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:173px;
+    height:26px;
+}
+
+.u36 {
+    position:absolute;
+    left:10px;
+    top:3px;
+    width:155px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_mouseOver {
+    background-image: url('../Food___Wine_files/u35_mouseOver.png');
+}
+
+.u37_selected {
+    background-image: url('../Food___Wine_files/u35_selected.png');
+}
+
+.u37_normal {
+    background-image: url('../Food___Wine_files/u35_mouseOver.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:167px;
+    height:20px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:173px;
+    height:26px;
+}
+
+.u38 {
+    position:absolute;
+    left:10px;
+    top:3px;
+    width:155px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_mouseOver {
+    background-image: url('../Food___Wine_files/u35_mouseOver.png');
+}
+
+.u39_selected {
+    background-image: url('../Food___Wine_files/u35_selected.png');
+}
+
+.u39_normal {
+    background-image: url('../Food___Wine_files/u35_mouseOver.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:167px;
+    height:20px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:173px;
+    height:26px;
+}
+
+.u40 {
+    position:absolute;
+    left:10px;
+    top:3px;
+    width:155px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_mouseOver {
+    background-image: url('../Food___Wine_files/u35_mouseOver.png');
+}
+
+.u41_selected {
+    background-image: url('../Food___Wine_files/u35_selected.png');
+}
+
+.u41_normal {
+    background-image: url('../Food___Wine_files/u35_mouseOver.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:0px;
+    top:60px;
+    width:167px;
+    height:20px;
+}
+
+#u41_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:173px;
+    height:26px;
+}
+
+.u42 {
+    position:absolute;
+    left:10px;
+    top:3px;
+    width:155px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u44 {
+    position:absolute;
+    left:778px;
+    top:60px;
+    width:173px;
+    height:31px;
+    overflow:hidden;
+}
+
+#pd1u44 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:173px;
+    height:31px;
+    
+}
+
+.u45_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u45_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:142px;
+    height:30px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:36px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_image_sketch {
+    background-image: url('../Food___Wine_files/Search_u47_image_sketch.png');
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:147px;
+    height:37px;
+}
+
+.u47 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:141px;
+    height:31px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Helvetica';
+    font-size: 13px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u47_text_sketch {
+    color: #656565;
+}
+
+.u48_normal {
+    background-image: url('../Food___Wine_files/u48_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:140px;
+    top:0px;
+    width:33px;
+    height:30px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:39px;
+    height:36px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:29px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u44 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:173px;
+    height:31px;
+    
+}
+
+.u50_normal {
+    background-image: url('../Food___Wine_files/u50_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+#u50_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u52_container {
+    position:absolute;
+    left:30px;
+    top:0px;
+    width:75px;
+    height:30px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:36px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:71px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_mouseOver {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u55_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u55_container {
+    position:absolute;
+    left:10px;
+    top:110px;
+    width:170px;
+    height:15px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:21px;
+}
+
+.u56 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:170px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_mouseOver {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u57_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u57_container {
+    position:absolute;
+    left:10px;
+    top:130px;
+    width:170px;
+    height:12px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:18px;
+}
+
+.u58 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:170px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_mouseOver {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u59_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u59_container {
+    position:absolute;
+    left:10px;
+    top:148px;
+    width:170px;
+    height:12px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:18px;
+}
+
+.u60 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:170px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_mouseOver {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u61_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u61_container {
+    position:absolute;
+    left:10px;
+    top:166px;
+    width:170px;
+    height:12px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:176px;
+    height:18px;
+}
+
+.u62 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:170px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_mouseOver {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u63_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u63_container {
+    position:absolute;
+    left:10px;
+    top:185px;
+    width:130px;
+    height:30px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:136px;
+    height:36px;
+}
+
+.u64 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../Food___Wine_files/u65_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:200px;
+    top:110px;
+    width:750px;
+    height:490px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:756px;
+    height:496px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:238px;
+    width:746px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../Food___Wine_files/u67_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:202px;
+    top:620px;
+    width:236px;
+    height:133px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:139px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:59px;
+    width:232px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../Food___Wine_files/u67_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:713px;
+    top:620px;
+    width:236px;
+    height:133px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:139px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:59px;
+    width:232px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../Food___Wine_files/u67_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:457px;
+    top:620px;
+    width:236px;
+    height:133px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:242px;
+    height:139px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:59px;
+    width:232px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

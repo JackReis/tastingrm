@@ -1,0 +1,25 @@
+﻿* html .u3_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nav_files/u0_normal.png");
+}
+
+* html .u5_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Nav_files/Logo_u2_normal.png");
+}
+
+* html .u8_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Error_files/error___button___goback_u8_mouseOver.png");
+}
+
+* html .u8_mouseDown {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Error_files/error___button___goback_u8_mouseDown.png");
+}
+
+* html .u8_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Error_files/error___button___goback_u8_normal.png");
+}
+

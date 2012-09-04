@@ -1,0 +1,1471 @@
+﻿body {
+    margin: 0px;
+    text-align: center;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+    position: relative;
+    left: -0px;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../DailyDeals_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:10px;
+    top:350px;
+    width:940px;
+    height:628px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:940px;
+    height:628px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:306px;
+    width:936px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../Nav_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:0px;
+    top:110px;
+    width:960px;
+    height:30px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:36px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../Nav_files/Logo_u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:376px;
+    top:0px;
+    width:207px;
+    height:106px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:207px;
+    height:106px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:45px;
+    width:203px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../DailyDeals_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:10px;
+    top:988px;
+    width:340px;
+    height:76px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:346px;
+    height:82px;
+}
+
+.u8 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:310px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../DailyDeals_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:10px;
+    top:210px;
+    width:213px;
+    height:200px;
+}
+
+#u9_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:213px;
+    height:200px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:92px;
+    width:209px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../DailyDeals_files/countdown_u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:247px;
+    top:210px;
+    width:461px;
+    height:138px;
+}
+
+#u11_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:461px;
+    height:138px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:61px;
+    width:457px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../DailyDeals_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:10px;
+    top:433px;
+    width:190px;
+    height:65px;
+}
+
+#u13_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:190px;
+    height:65px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:186px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_mouseOver {
+    background-image: url('../DailyDeals_files/Continue_u15_mouseOver.png');
+}
+
+.u15_mouseDown {
+    background-image: url('../DailyDeals_files/Continue_u15_mouseDown.png');
+}
+
+.u15_normal {
+    background-image: url('../DailyDeals_files/Continue_u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:738px;
+    top:210px;
+    width:207px;
+    height:73px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:213px;
+    height:79px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:203px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:738px;
+    top:313px;
+    width:222px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../DailyDeals_files/FacebookBug_u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:738px;
+    top:337px;
+    width:32px;
+    height:32px;
+}
+
+#u18_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../DailyDeals_files/PinterestBug_u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:831px;
+    top:337px;
+    width:32px;
+    height:32px;
+}
+
+#u20_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../DailyDeals_files/GooglePlusBug_u22_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:878px;
+    top:337px;
+    width:32px;
+    height:32px;
+}
+
+#u22_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../DailyDeals_files/TwitterBug_u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:785px;
+    top:337px;
+    width:32px;
+    height:32px;
+}
+
+#u24_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:10px;
+    top:155px;
+    width:713px;
+    height:45px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:178px;
+    top:480px;
+    width:14px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u28 {
+    position:absolute;
+    left:200px;
+    top:436px;
+    width:338px;
+    height:59px;
+    overflow:hidden;
+}
+
+#pd0u28 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:338px;
+    height:59px;
+    
+}
+
+.u29_normal {
+    background-image: url('../DailyDeals_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:17px;
+    top:2px;
+    width:320px;
+    height:56px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:62px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../DailyDeals_files/u31_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:15px;
+    top:0px;
+    width:320px;
+    height:56px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:62px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../DailyDeals_files/u33_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:0px;
+    top:14px;
+    width:15px;
+    height:30px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:21px;
+    height:36px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:11px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:26px;
+    top:12px;
+    width:270px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:26px;
+    top:30px;
+    width:270px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_line {
+    background-image: url('../DailyDeals_files/u37_line.png');
+}
+
+.u37_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:28px;
+}
+
+.u37 {
+    position:absolute;
+    left:10px;
+    top:14px;
+    width:10px;
+    height:28px;
+    
+}
+
+.u38 {
+    position:absolute;
+    left:319px;
+    top:2px;
+    width:14px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:20px;
+    top:1026px;
+    width:244px;
+    height:30px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Helvetica';
+    font-size: 13px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u40_normal {
+    background-image: url('../DailyDeals_files/Sign_Up_Button_u40_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:264px;
+    top:1026px;
+    width:73px;
+    height:30px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:79px;
+    height:36px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:20px;
+    top:998px;
+    width:317px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u43 {
+    position:absolute;
+    left:370px;
+    top:989px;
+    width:341px;
+    height:76px;
+    overflow:hidden;
+}
+
+#pd2u43 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:76px;
+    
+}
+
+.u44_normal {
+    background-image: url('../DailyDeals_files/u44_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:210px;
+    top:2px;
+    width:110px;
+    height:71px;
+}
+
+#u44_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:110px;
+    height:71px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:28px;
+    width:106px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:30px;
+    top:10px;
+    width:232px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:30px;
+    top:31px;
+    width:183px;
+    height:45px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd1u43 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:76px;
+    
+}
+
+.u48_normal {
+    background-image: url('../DailyDeals_files/u48_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:340px;
+    height:75px;
+}
+
+#u48_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:340px;
+    height:75px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:336px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u43 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:341px;
+    height:76px;
+    
+}
+
+.u50_normal {
+    background-image: url('../DailyDeals_files/u50_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:0px;
+    top:5px;
+    width:340px;
+    height:65px;
+}
+
+#u50_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:340px;
+    height:65px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:336px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:740px;
+    top:998px;
+    width:200px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../DailyDeals_files/FacebookBug_u18_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:730px;
+    top:1032px;
+    width:32px;
+    height:32px;
+}
+
+#u53_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../DailyDeals_files/PinterestBug_u20_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:853px;
+    top:1032px;
+    width:32px;
+    height:32px;
+}
+
+#u55_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../DailyDeals_files/GooglePlusBug_u22_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:915px;
+    top:1032px;
+    width:32px;
+    height:32px;
+}
+
+#u57_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_normal {
+    background-image: url('../DailyDeals_files/TwitterBug_u24_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:792px;
+    top:1032px;
+    width:32px;
+    height:32px;
+}
+
+#u59_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u61 {
+    position:absolute;
+    left:724px;
+    top:390px;
+    width:222px;
+    height:332px;
+    overflow:hidden;
+}
+
+#pd1u61 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:222px;
+    height:332px;
+    
+}
+
+.u62_normal {
+    background-image: url('../DailyDeals_files/u62_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:220px;
+    height:276px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:226px;
+    height:282px;
+}
+
+.u63 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:190px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64 {
+    position:absolute;
+    left:13px;
+    top:12px;
+    width:166px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65 {
+    position:absolute;
+    left:13px;
+    top:39px;
+    width:202px;
+    height:234px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../DailyDeals_files/u66_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:56px;
+    top:283px;
+    width:14px;
+    height:14px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:20px;
+    height:20px;
+}
+
+.u67 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:58px;
+    top:283px;
+    width:10px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;-webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+
+.u69 {
+    position:absolute;
+    left:72px;
+    top:283px;
+    width:61px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../DailyDeals_files/u66_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:134px;
+    top:283px;
+    width:14px;
+    height:14px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:20px;
+    height:20px;
+}
+
+.u71 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72 {
+    position:absolute;
+    left:136px;
+    top:283px;
+    width:10px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;-webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+
+#u73 {
+    position:absolute;
+    left:56px;
+    top:283px;
+    width:91px;
+    height:14px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u61 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:222px;
+    height:332px;
+    
+}
+
+.u74_normal {
+    background-image: url('../DailyDeals_files/u74_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:221px;
+    height:165px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:227px;
+    height:171px;
+}
+
+.u75 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76 {
+    position:absolute;
+    left:13px;
+    top:12px;
+    width:166px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77 {
+    position:absolute;
+    left:14px;
+    top:39px;
+    width:195px;
+    height:126px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../DailyDeals_files/u66_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:56px;
+    top:170px;
+    width:14px;
+    height:14px;-webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:20px;
+    height:20px;
+}
+
+.u79 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80 {
+    position:absolute;
+    left:58px;
+    top:168px;
+    width:10px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.u81 {
+    position:absolute;
+    left:71px;
+    top:170px;
+    width:61px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../DailyDeals_files/u66_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:133px;
+    top:170px;
+    width:14px;
+    height:14px;-webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:20px;
+    height:20px;
+}
+
+.u83 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84 {
+    position:absolute;
+    left:135px;
+    top:168px;
+    width:10px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+#u85 {
+    position:absolute;
+    left:56px;
+    top:170px;
+    width:91px;
+    height:14px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+

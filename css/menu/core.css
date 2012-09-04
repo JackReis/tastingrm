@@ -1,0 +1,38 @@
+/* reset --------------------------------- */
+.nav, .nav ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+/* --------------------------------------- */
+.nav li, .nav ul a {position:relative;}
+.nav > li {float:left;}
+.nav > li.floatr {float:right;}
+.nav li > a {display:block;}
+/* --------------------------------------- */
+.nav ul {
+	position:absolute;
+	display:none;
+	width:125px;
+}
+.nav ul ul {
+	top:0;
+	left:125px;
+}
+.nav > li.floatr > ul {right:0;}
+.nav > li.floatr > ul ul {left:-125px;}
+.nav li:hover > ul {display:block;}
+/* mega nav ----------------------------- */
+.nav .cols1, .nav .cols2, .nav .cols3, .nav .cols4, .nav .cols5 {
+	position:absolute;
+	display:none;
+	overflow:auto;
+}
+.nav .cols1, .nav .col1 {width:160px;}
+.nav .cols2, .nav .col2 {width:320px;}
+.nav .cols3, .nav .col3 {width:480px;}
+.nav .cols4, .nav .col4 {width:640px;}
+.nav .cols5, .nav .col5 {width:800px;}
+.nav > li.floatr > div {right:0;}
+.nav > li:hover > div {display:block;}
+.nav .col1, .nav .col2, .nav .col3, .nav .col4, .nav .col5 {float:left;}
