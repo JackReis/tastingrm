@@ -3,10 +3,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Site Refresh Notes</title>
     <meta name="format" content="complete"/>
-    <link rel="stylesheet" href="http://www.tastingrm.com/css/reset.css">
-	<link rel="stylesheet" href="http://www.tastingrm.com/css/style.css">
-	<link rel="stylesheet" href="http://www.tastingrm.com/css/menu/core.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="http://www.tastingrm.com/css/menu/styles/lgray.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="http://www.tastingrm.com/css/reset.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="http://www.tastingrm.com/css/style.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="http://www.tastingrm.com/css/menu/core.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="http://www.tastingrm.com/css/menu/styles/lgray.css" type="text/css" media="screen">
 </head>
 
 <body>
@@ -42,22 +42,86 @@
 </nav>
 <div id="content">
 <h1>Checkout Refresh Notes</h1>
+<h4>Spec Review</h4>
+<h5>September 12, 2012</h5>
+
+<ul>
+  <li><strong>Verisign vs. Godaddy</strong> - what will we want to use?</li>
+  <li>This will be messaged both in an FAQ as well as in the Checkout Flow</li>
+  <li><strong>Jack:</strong> what will the UX for this be?</li>
+</ul>
+
+<ul>
+  <li><strong>Sequence Map:</strong> - How will the user progress back to a late stage if they go back?
+  <li>Will this work with Brain Tree?</li>
+</ul>
+
+<ul>
+  <li><strong>Jack:</strong> remove quantity picker and make ZIP the only dialogue boxes</li>
+  <li>Keep Blank State dialogue, but quantity of item will be chosen from PDP pages</li>
+</ul>
+
+<ul>
+  <li><strong>View Cart</strong> will be needs another column to show [$] x [#] <strong>Cost</strong>
+  <li><strong>Jack:</strong> solve for ZIPs with multiple cities</li>
+  <li>Also need to revisit Shipping Est - show est will be updated based on ZIP, other factors (?)</li>
+  <ul>
+    <li>location</li>
+    <li><strong>Ian / Clare:</strong> - what else do we need to account for</li>
+  </ul>
+  <li><strong>Jack:</strong> Need to note when there is a <strong>backorder</strong></li>
+    <li><strong>Jack:</strong> Review all subtotal line items from Spec P.6
+    <ul>
+      <li>cart subtotal, est. tax, discount, est. shipping cost, est. shipping cost discount, est. order total</li>
+    </ul>
+</ul>
+
+<ul>
+  <li><strong>Jack:</strong> - Last-minute ZIP code changes will not result in pulling the item out of the cart</li>
+  <li>There will be a message at the Billing &amp; Shipping stage that will provide options:</li>
+  <ul>
+    <li>Pull it out and proceed (accept removal from cart)</li>
+    <li>Change the ZIP again (back to shippable zone, presumably</li>
+</ul>
+
+<ul>
+  <li><strong>Jack:</strong> - Show more addresses and include a "Show More..." button for users</li>
+  <li><strong>Adult Signature Required</strong> will be important to include at various points:</li>
+  <ul>
+    <li>Appear on "Shipping address is the same as the billing address"</li>
+    <li>Appear on {Add New Address}</li>
+    <li>Other cases</li>
+  </ul>
+</ul>
+
+<ul>
+  <li><strong>Jack:</strong></li> Account for various Error Messaging
+  <ul>
+    <li>Place Order - Credit Card failure</li>
+    <li>Compliance Failure - after shipping address entry or change</li>
+  </ul>
+</ul>
+
+<ul>
+  <li><strong>Order Review</strong> - need to introduce this</li>
+</ul>
+
+<br>
+<hr>
+<br>
+
+<h4>Questions for Ian</h4>
+<ul>
+  <li>1. Do we want to have an order review</li>
+  <li><em>No, this will be the right rail on the Payment Info page.</em></li>
+  <li>2. where does upsell fit into this flow?</li>
+  <li><em>After login, potentially not appearing in the Sequence Map (Progress Indicator)</em></li>
+  <li>3. where does shipping method fit into this flow? (Currently implemented on Upsell page)</li>
+</ul>
 
 <ul>
 <li><p>A gallery of E-commerce sites: <a href="http://cartfrenzy.com/">http://cartfrenzy.com/</a></p></li>
 </ul>
-
-<h3>Brand Adjectives</h3>
-
-<ul>
-<li>Reliable</li>
-<li>Witty</li>
-<li>Informative</li>
-<li>Friendly</li>
-<li>Trustworthy</li>
-</ul>
-
-<hr />
 
 <h4>Discuss with Craig</h4>
 
@@ -66,8 +130,6 @@
 <ul>
 <li>What will be kept from style sheet</li>
 <li>How can we be responsive - scale from desktop to phone</li>
-<li>How is the filter/search system going to work?</li>
-<li>Can we use breadcrumbs</li>
 </ul>
 </div>
 </body>
