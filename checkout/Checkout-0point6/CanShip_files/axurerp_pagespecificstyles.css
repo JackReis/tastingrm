@@ -1,0 +1,351 @@
+﻿body {
+    margin: 0px;
+    text-align: center;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+    position: relative;
+    left: -0px;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../CanShip_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:960px;
+    height:1000px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:1006px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:492px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../CanShip_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:324px;
+    top:184px;
+    width:306px;
+    height:226px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:312px;
+    height:232px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:105px;
+    width:302px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../CanShip_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:322px;
+    top:180px;
+    width:306px;
+    height:226px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:312px;
+    height:232px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:105px;
+    width:302px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../CanShip_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:322px;
+    top:180px;
+    width:306px;
+    height:30px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:312px;
+    height:36px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:302px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:330px;
+    top:187px;
+    width:187px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:584px;
+    top:187px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_mouseOver {
+    background-image: url('../CanShip_files/add_to_cart_u10_mouseOver.png');
+}
+
+.u10_mouseDown {
+    background-image: url('../CanShip_files/add_to_cart_u10_mouseDown.png');
+}
+
+.u10_normal {
+    background-image: url('../CanShip_files/add_to_cart_u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:379px;
+    top:350px;
+    width:193px;
+    height:40px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:199px;
+    height:46px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:189px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:378px;
+    top:224px;
+    width:193px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:303px;
+    top:256px;
+    width:347px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../CanShip_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:494px;
+    top:283px;
+    width:51px;
+    height:51px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:57px;
+    height:57px;
+}
+
+.u15 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:21px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../CanShip_files/u14_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:406px;
+    top:283px;
+    width:51px;
+    height:51px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:57px;
+    height:57px;
+}
+
+.u17 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:21px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:449px;
+    top:283px;
+    width:54px;
+    height:51px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
