@@ -113,7 +113,7 @@ h1 {
   font-family: 'Ubuntu', sans-serif;
   font-size: 5.5em;
   font-weight: 700;
-  text-shadow: 0 0 0px #00a9ce;
+  text-shadow: 0 0 2px #00a9ce;
   text-decoration: none;
 }
 
@@ -129,6 +129,7 @@ h2 {
 
 .description {
   font-family: 'Ubuntu', sans-serif;
+  font-weight: 400;
   font-size: 0.8em;
 }
 
