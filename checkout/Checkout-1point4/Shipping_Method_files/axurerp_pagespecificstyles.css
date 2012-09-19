@@ -147,32 +147,12 @@ div {
     
 }
 
-.u7_normal {
-    background-image: url('../ShippingMethodPanelContents_files/body_u11_normal.png');
-}
-
-.u7_container {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:371px;
-    height:235px;
-}
-
-#u7_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:377px;
-    height:241px;
-}
-
 .u8 {
     position:absolute;
-    left:2px;
-    top:110px;
-    width:367px;
-    height:16px;
+    left:16px;
+    top:0px;
+    width:303px;
+    height:15px;
     ;
     ;
     ;
@@ -209,11 +189,25 @@ div {
     word-wrap:break-word;
 }
 
+.u13 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:321px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
 .u14 {
     position:absolute;
-    left:16px;
-    top:0px;
-    width:303px;
+    left:229px;
+    top:38px;
+    width:92px;
     height:15px;
     ;
     ;
@@ -223,39 +217,25 @@ div {
     word-wrap:break-word;
 }
 
-.u15_mouseOver {
-    background-image: url('../ShippingMethodPanelContents_files/Continue_u19_mouseOver.png');
-}
-
-.u15_mouseDown {
-    background-image: url('../ShippingMethodPanelContents_files/Continue_u19_mouseDown.png');
-}
-
-.u15_normal {
-    background-image: url('../ShippingMethodPanelContents_files/Continue_u19_normal.png');
-}
-
-.u15_container {
+.u15 {
     position:absolute;
-    left:54px;
-    top:167px;
-    width:260px;
-    height:40px;
-}
-
-#u15_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:266px;
-    height:46px;
+    left:229px;
+    top:73px;
+    width:92px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
 .u16 {
     position:absolute;
-    left:2px;
-    top:12px;
-    width:256px;
+    left:229px;
+    top:109px;
+    width:92px;
     height:15px;
     ;
     ;
@@ -267,10 +247,10 @@ div {
 
 .u17 {
     position:absolute;
-    left:23px;
-    top:17px;
-    width:321px;
-    height:18px;
+    left:20px;
+    top:53px;
+    width:200px;
+    height:11px;
     ;
     ;
     ;
@@ -281,10 +261,10 @@ div {
 
 .u18 {
     position:absolute;
-    left:252px;
-    top:55px;
-    width:92px;
-    height:15px;
+    left:20px;
+    top:88px;
+    width:200px;
+    height:11px;
     ;
     ;
     ;
@@ -295,36 +275,8 @@ div {
 
 .u19 {
     position:absolute;
-    left:252px;
-    top:90px;
-    width:92px;
-    height:15px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u20 {
-    position:absolute;
-    left:252px;
-    top:126px;
-    width:92px;
-    height:15px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u21 {
-    position:absolute;
-    left:43px;
-    top:70px;
+    left:20px;
+    top:124px;
     width:200px;
     height:11px;
     ;
@@ -333,14 +285,34 @@ div {
     font-family:Arial;
     text-align:left;
     word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../Shipping_Method_files/u4_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:150px;
+    top:110px;
+    width:371px;
+    height:38px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:377px;
+    height:44px;
 }
 
 .u22 {
     position:absolute;
-    left:43px;
-    top:105px;
-    width:200px;
-    height:11px;
+    left:10px;
+    top:4px;
+    width:359px;
+    height:29px;
     ;
     ;
     ;
@@ -349,12 +321,32 @@ div {
     word-wrap:break-word;
 }
 
-.u23 {
+.u23_normal {
+    background-image: url('../Shipping_Method_files/u23_normal.png');
+}
+
+.u23_container {
     position:absolute;
-    left:43px;
-    top:141px;
-    width:200px;
-    height:11px;
+    left:569px;
+    top:110px;
+    width:235px;
+    height:33px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:241px;
+    height:39px;
+}
+
+.u24 {
+    position:absolute;
+    left:10px;
+    top:2px;
+    width:223px;
+    height:29px;
     ;
     ;
     ;
@@ -370,7 +362,7 @@ div {
 .u25_container {
     position:absolute;
     left:150px;
-    top:110px;
+    top:168px;
     width:371px;
     height:38px;
 }
@@ -398,30 +390,30 @@ div {
 }
 
 .u27_normal {
-    background-image: url('../Shipping_Method_files/u27_normal.png');
+    background-image: url('../Shipping_Method_files/u4_normal.png');
 }
 
 .u27_container {
     position:absolute;
-    left:569px;
-    top:110px;
-    width:235px;
-    height:33px;
+    left:150px;
+    top:519px;
+    width:371px;
+    height:38px;
 }
 
 #u27_img {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:241px;
-    height:39px;
+    width:377px;
+    height:44px;
 }
 
 .u28 {
     position:absolute;
     left:10px;
-    top:2px;
-    width:223px;
+    top:4px;
+    width:359px;
     height:29px;
     ;
     ;
@@ -438,7 +430,7 @@ div {
 .u29_container {
     position:absolute;
     left:150px;
-    top:168px;
+    top:577px;
     width:371px;
     height:38px;
 }
@@ -472,7 +464,7 @@ div {
 .u31_container {
     position:absolute;
     left:150px;
-    top:519px;
+    top:635px;
     width:371px;
     height:38px;
 }
@@ -499,75 +491,7 @@ div {
     word-wrap:break-word;
 }
 
-.u33_normal {
-    background-image: url('../Shipping_Method_files/u4_normal.png');
-}
-
-.u33_container {
-    position:absolute;
-    left:150px;
-    top:577px;
-    width:371px;
-    height:38px;
-}
-
-#u33_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:377px;
-    height:44px;
-}
-
-.u34 {
-    position:absolute;
-    left:10px;
-    top:4px;
-    width:359px;
-    height:29px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u35_normal {
-    background-image: url('../Shipping_Method_files/u4_normal.png');
-}
-
-.u35_container {
-    position:absolute;
-    left:150px;
-    top:635px;
-    width:371px;
-    height:38px;
-}
-
-#u35_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:377px;
-    height:44px;
-}
-
-.u36 {
-    position:absolute;
-    left:10px;
-    top:4px;
-    width:359px;
-    height:29px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u37 {
+.u33 {
     position:absolute;
     left:419px;
     top:120px;
@@ -581,7 +505,7 @@ div {
     word-wrap:break-word;
 }
 
-.u38 {
+.u34 {
     position:absolute;
     left:419px;
     top:180px;
@@ -595,11 +519,11 @@ div {
     word-wrap:break-word;
 }
 
-.u39_normal {
-    background-image: url('../Shipping_Method_files/u39_normal.png');
+.u35_normal {
+    background-image: url('../Shipping_Method_files/u35_normal.png');
 }
 
-.u39_container {
+.u35_container {
     position:absolute;
     left:569px;
     top:143px;
@@ -607,7 +531,7 @@ div {
     height:24px;
 }
 
-#u39_img {
+#u35_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -615,7 +539,7 @@ div {
     height:30px;
 }
 
-.u40 {
+.u36 {
     position:absolute;
     left:10px;
     top:5px;
@@ -629,11 +553,11 @@ div {
     word-wrap:break-word;
 }
 
-.u41_normal {
-    background-image: url('../Shipping_Method_files/u41_normal.png');
+.u37_normal {
+    background-image: url('../Shipping_Method_files/u37_normal.png');
 }
 
-.u41_container {
+.u37_container {
     position:absolute;
     left:569px;
     top:167px;
@@ -641,7 +565,7 @@ div {
     height:86px;
 }
 
-#u41_img {
+#u37_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -649,7 +573,7 @@ div {
     height:92px;
 }
 
-.u42 {
+.u38 {
     position:absolute;
     left:10px;
     top:2px;
@@ -663,7 +587,7 @@ div {
     word-wrap:break-word;
 }
 
-.u43 {
+.u39 {
     position:absolute;
     left:579px;
     top:180px;
@@ -677,11 +601,11 @@ div {
     word-wrap:break-word;
 }
 
-.u45_normal {
-    background-image: url('../Shipping_Method_files/u39_normal.png');
+.u41_normal {
+    background-image: url('../Shipping_Method_files/u35_normal.png');
 }
 
-.u45_container {
+.u41_container {
     position:absolute;
     left:569px;
     top:242px;
@@ -689,7 +613,7 @@ div {
     height:24px;
 }
 
-#u45_img {
+#u41_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -697,7 +621,7 @@ div {
     height:30px;
 }
 
-.u46 {
+.u42 {
     position:absolute;
     left:10px;
     top:5px;
@@ -711,11 +635,11 @@ div {
     word-wrap:break-word;
 }
 
-.u47_normal {
-    background-image: url('../Shipping_Method_files/u47_normal.png');
+.u43_normal {
+    background-image: url('../Shipping_Method_files/u43_normal.png');
 }
 
-.u47_container {
+.u43_container {
     position:absolute;
     left:569px;
     top:266px;
@@ -723,7 +647,7 @@ div {
     height:79px;
 }
 
-#u47_img {
+#u43_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -731,7 +655,7 @@ div {
     height:85px;
 }
 
-.u48 {
+.u44 {
     position:absolute;
     left:10px;
     top:2px;
@@ -745,7 +669,7 @@ div {
     word-wrap:break-word;
 }
 
-.u49 {
+.u45 {
     position:absolute;
     left:579px;
     top:280px;
@@ -759,14 +683,82 @@ div {
     word-wrap:break-word;
 }
 
+.u47_normal {
+    background-image: url('../Shipping_Method_files/u35_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:569px;
+    top:341px;
+    width:235px;
+    height:24px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:241px;
+    height:30px;
+}
+
+.u48 {
+    position:absolute;
+    left:10px;
+    top:5px;
+    width:223px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../Shipping_Method_files/u35_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:569px;
+    top:365px;
+    width:235px;
+    height:24px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:241px;
+    height:30px;
+}
+
+.u50 {
+    position:absolute;
+    left:10px;
+    top:5px;
+    width:223px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
 .u51_normal {
-    background-image: url('../Shipping_Method_files/u39_normal.png');
+    background-image: url('../Shipping_Method_files/u35_normal.png');
 }
 
 .u51_container {
     position:absolute;
     left:569px;
-    top:341px;
+    top:389px;
     width:235px;
     height:24px;
 }
@@ -794,13 +786,13 @@ div {
 }
 
 .u53_normal {
-    background-image: url('../Shipping_Method_files/u39_normal.png');
+    background-image: url('../Shipping_Method_files/u35_normal.png');
 }
 
 .u53_container {
     position:absolute;
     left:569px;
-    top:365px;
+    top:413px;
     width:235px;
     height:24px;
 }
@@ -814,74 +806,6 @@ div {
 }
 
 .u54 {
-    position:absolute;
-    left:10px;
-    top:5px;
-    width:223px;
-    height:14px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u55_normal {
-    background-image: url('../Shipping_Method_files/u39_normal.png');
-}
-
-.u55_container {
-    position:absolute;
-    left:569px;
-    top:389px;
-    width:235px;
-    height:24px;
-}
-
-#u55_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:241px;
-    height:30px;
-}
-
-.u56 {
-    position:absolute;
-    left:10px;
-    top:5px;
-    width:223px;
-    height:14px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u57_normal {
-    background-image: url('../Shipping_Method_files/u39_normal.png');
-}
-
-.u57_container {
-    position:absolute;
-    left:569px;
-    top:413px;
-    width:235px;
-    height:24px;
-}
-
-#u57_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:241px;
-    height:30px;
-}
-
-.u58 {
     position:absolute;
     left:10px;
     top:5px;
