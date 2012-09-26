@@ -1,0 +1,238 @@
+<html>
+<head>    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Site Refresh Notes</title>
+    <meta name="format" content="complete"/>
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="http://www.tastingrm.com/css/reset.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="http://www.tastingrm.com/css/style.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="http://www.tastingrm.com/css/menu/core.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="http://www.tastingrm.com/css/menu/styles/lgray.css" type="text/css" media="screen">
+</head>
+
+<body>
+<nav>
+    <ul class="nav lgray">
+      <li><a href="http://www.tastingrm.com/email/email-prototypes.html">Email</a>
+        <ul>
+            <!-- <li><a href="http://www.tastingrm.com/email/email-final.html">final</a></li> -->
+            <li><a href="http://www.tastingrm.com/email/email-prototypes.html">drafts</a></li>
+            <li><a href="http://www.tastingrm.com/email/email-notes.html">notes</a></li>
+        </ul>
+      </li>
+      <li><a href="http://www.tastingrm.com/site-refresh/site-refresh-prototypes.html">Site Refresh</a>
+        <ul>
+            <!-- <li><a href="http://www.tastingrm.com/site-refresh/site-refresh-final.html">final</a></li> -->
+            <li><a href="http://www.tastingrm.com/site-refresh/site-refresh-prototypes.html">drafts</a></li>
+            <li><a href="http://www.tastingrm.com/site-refresh/site-refresh-notes.html">notes</a></li>
+        </ul>
+      </li>
+      <li><a href="http://www.tastingrm.com/happy-hour/happy-hour-prototypes.html">Happy Hour</a>
+        <ul>
+            <li><a href="http://www.tastingrm.com/happy-hour/happy-hour-final.html">final</a></li>
+            <li><a href="http://www.tastingrm.com/happy-hour/happy-hour-prototypes.html">drafts</a></li>
+        </ul>
+      </li>
+      <li><a href="http://www.tastingrm.com/checkout/checkout-prototypes.html">Checkout</a>
+        <ul>
+            <li><a href="http://www.tastingrm.com/checkout/checkout-prototypes.html">drafts</a></li>
+            <li><a href="http://www.tastingrm.com/checkout/checkout-notes.html">notes</a></li>
+        </ul>
+      </li>
+      <li><a href="http://www.tastingrm.com/global/global-prototypes.html">Global</a>
+        <ul>
+            <!-- <li><a href="http://www.tastingrm.com/email/email-final.html">final</a></li> -->
+            <li><a href="http://www.tastingrm.com/global/global-prototypes.html">drafts</a></li>
+            <li><a href="http://www.tastingrm.com/global/1point4.docx">notes</a></li> 
+        </ul>
+      </li>
+    </ul>
+</nav>
+<div id="content">
+<div class="notes">
+<h1>Checkout Refresh Notes</h1>
+<h4>Spec Review</h4>
+<h5>September 19, 2012</h5>
+
+<ul>
+  <li><strong>Cart</strong> - Signout currently clears cart</li>
+  <ul>
+    <li><strong>Jack:</strong> this doesn't seem to be entirely necessary</li>
+  </ul>
+  <li>Cart will show upsell for a signed-in user</li>
+  <li>Destination ZIP will be based on entry at ZIP Dialogue</li>
+</ul>
+<ul>
+  <li><strong>ZIP Entry Dialogue</strong></li>
+  <ul>
+    <li>Will only show city if there is only one city in the ZIP</li>
+  </ul>
+</ul>
+<h4>Accordion</h4>
+<ul>
+  <li>Billing Address</li>
+  <ul>
+    <li>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.</li>
+    <li>explain what * is for</li>
+    <li>address line 2</li>
+    <li>date of birth</li>
+  </ul>
+</ul>
+
+<ul>
+  <li>Shipping</li>
+  <ul>
+    <li>Address line 2</li>
+    <li>2nd email address line</li>
+    <li>we don't ship to a PO Box</li>
+    <li>need to tell the user they need to have an adult to sign for the package - over-ride the shipping same as billing checkbox</li>
+    <li>pick from list of shipping addresses</li>
+  </ul>
+</ul>
+
+<ul>
+  <li>Shipping Method</li>
+  <ul>
+    <li>show day and the date  (Tue, Sept 19)</li>
+    <li>gray out options that are not available</li>
+    <li>promotional shipping - your promotion covers shipping </li>
+    <li>show standard price with strike through and then show what they are paying for shipping</li>
+    <li>"will arrive before Christmas" string</li>
+  </ul>
+</ul>
+
+<ul>
+  <li>Payment Method</li>
+  <ul>
+    <li>No credit card type</li>
+    <li>CVV card</li>
+    <li>gift card</li>
+    <li>allow for multiple gift cards and a credit card</li>
+    <li>able to check your gift card balance</li>
+    <li>signed in, retain credit card</li>
+    <li>pick from your credit cards</li>
+  </ul>
+</ul>
+
+<ul>
+  <li>Is this a gift?</li>
+  <ul>
+    <li>show To, From and Message first</li>
+    <li>then checkbox to pay for card</li>
+    <li>tell user that their message will print on the invoice</li>
+    <li>ask for email for gift recipient - ask for twice</li>
+    <li>255 character message limit</li>
+    <li>move this section above payment method</li>
+    <li>able to print multiple greeting cards - ask for quantity</li>
+  </ul>
+</ul>
+
+<ul>
+  <li>Order Review</li>
+  <ul>
+    <li>Gift Card input needed</li>
+    <li>not editable…must go to View Cart to change items in your cart</li>
+    <li>Edit Cart button</li>
+  </ul>
+</ul>
+
+<ul>
+  <li>Checkout Progress</li>
+  <ul>
+    <li>Cart Summary - # of items and cart total</li>
+    <li>not editable</li>
+  </ul>
+</ul>
+
+<ul><li>Flesh out confirmation page</li></ul>
+<br>
+<hr>
+<br>
+<h4>Spec Review</h4>
+<h5>September 12, 2012</h5>
+
+<ul>
+  <li><strong>Verisign vs. Godaddy</strong> - what will we want to use?</li>
+  <li>This will be messaged both in an FAQ as well as in the Checkout Flow</li>
+  <li><strong>Jack:</strong> what will the UX for this be?</li> 
+</ul>
+<ul>
+  <li><strong>Sequence Map:</strong> - How will the user progress back to a late stage if they go back?
+  <li>Will this work with Brain Tree?</li>
+</ul>
+<ul>
+  <li><strong>Jack:</strong> remove quantity picker and make ZIP the only dialogue boxes</li>
+  <li>Keep Blank State dialogue, but quantity of item will be chosen from PDP pages</li>
+</ul>
+<ul>
+  <li><strong>View Cart</strong> will be needs another column to show [$] x [#] <strong>Cost</strong>
+  <li><strong>Jack:</strong> solve for ZIPs with multiple cities</li>
+  <li>Also need to revisit Shipping Est - show est will be updated based on ZIP, other factors (?)</li>
+  <ul>
+    <li>location</li>
+    <li>what else?</li>
+    <li><strong>Ian / Clare:</strong> - what else do we need to account for</li>
+  </ul>
+  <li><strong>Jack:</strong> Need to note when there is a <strong>backorder</strong></li>
+  <li><strong>Jack:</strong> Review all subtotal line items from Spec P.6
+  <ul>
+    <li>cart subtotal, est. tax, discount, est. shipping cost, est. shipping cost discount, est. order total</li>
+  </ul>
+</ul>
+<ul>
+  <li><strong>Jack:</strong> - Last-minute ZIP code changes will not result in pulling the item out of the cart</li>
+  <li>There will be a message at the Billing &amp; Shipping stage that will provide options:</li>
+  <ul>
+    <li>Pull it out and proceed (accept removal from cart)</li>
+    <li>Change the ZIP again (back to shippable zone, presumably</li>
+  </ul>
+</ul>
+<ul>
+  <li><strong>Jack:</strong> - Show more addresses and include a "Show More..." button for users</li>
+  <li><strong>Adult Signature Required</strong> will be important to include at various points:</li>
+  <ul>
+    <li>Appear on "Shipping address is the same as the billing address"</li>
+    <li>Appear on {Add New Address}</li>
+    <li>Other cases</li>
+  </ul>
+</ul>
+<ul>
+  <li><strong>Jack:</strong> Account for various Error Messaging</li>
+  <ul>
+    <li>Place Order - Credit Card failure</li>
+    <li>Compliance Failure - after shipping address entry or change</li>
+  </ul>
+</ul>
+<ul>
+  <li><strong>Order Review</strong> - need to introduce this</li>
+</ul>
+
+<br>
+<hr>
+<br>
+
+<h4>Questions for Ian</h4>
+<ul>
+  <li>1. Do we want to have an order review</li>
+  <li><em>No, this will be the right rail on the Payment Info page.</em></li>
+  <li>2. where does upsell fit into this flow?</li>
+  <li><em>After login, potentially not appearing in the Sequence Map (Progress Indicator)</em></li>
+  <li>3. where does shipping method fit into this flow? (Currently implemented on Upsell page)</li>
+</ul>
+<ul>
+<li><p>A gallery of E-commerce sites: <a href="http://cartfrenzy.com/">http://cartfrenzy.com/</a></p></li>
+</ul>
+
+<h4>Discuss with Craig</h4>
+
+<h5><em>Questions</em></h5>
+
+<ul>
+<li>What will be kept from style sheet</li>
+<li>How can we be responsive - scale from desktop to phone</li>
+</ul>
+</div>
+<!-- END Notes Div -->
+</div>
+</body>
+</html>
