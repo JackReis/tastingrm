@@ -116,7 +116,7 @@ $axure.eventManager.click('u214', function(e) {
 
 if (true) {
 
-	NewTab($axure.globalVariableProvider.getLinkUrl('0_1_Blank_State_Dialogue.html'), "");
+	NewTab($axure.globalVariableProvider.getLinkUrl('0_1_Blank_State_Dialog.html'), "");
 
 }
 });
@@ -299,7 +299,7 @@ $axure.eventManager.click('u203', function(e) {
 
 if (true) {
 
-	NewTab($axure.globalVariableProvider.getLinkUrl('0_2_AddToCart_Dialogue___ZIP_Entry_storyboard.html'), "");
+	NewTab($axure.globalVariableProvider.getLinkUrl('0_2_AddToCart_Dialog___ZIP_Entry_storyboard.html'), "");
 
 }
 });

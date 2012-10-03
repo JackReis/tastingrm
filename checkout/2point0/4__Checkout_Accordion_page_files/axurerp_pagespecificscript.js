@@ -1322,7 +1322,7 @@ $axure.eventManager.click('u255', function(e) {
 
 if (true) {
 
-	NewWindow("resources/Other.html#other=" + encodeURI("Show picture of printed greeting card"), "", "directories=0, height=300, location=0, menubar=0, resizable=1, scrollbars=1, status=0, toolbar=0, width=300", true, 300, 300);
+	NewWindow("resources/Other.html#other=" + encodeURI("Show explanation of the teaser email"), "", "directories=0, height=300, location=0, menubar=0, resizable=1, scrollbars=1, status=0, toolbar=0, width=300", true, 300, 300);
 
 }
 });
