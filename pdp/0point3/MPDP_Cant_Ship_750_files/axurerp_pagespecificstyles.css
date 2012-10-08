@@ -1,0 +1,4468 @@
+﻿body {
+    margin: 0px;
+    text-align: center;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+    position: relative;
+    left: -20px;
+    width: 2166px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:20px;
+    top:71px;
+    width:960px;
+    height:1198px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:1204px;
+}
+
+.u1 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:930px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:30px;
+    top:91px;
+    width:940px;
+    height:1134px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:946px;
+    height:1140px;
+}
+
+.u3 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:910px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:222px;
+    top:175px;
+    width:365px;
+    height:205px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:371px;
+    height:211px;
+}
+
+.u5 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:335px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u6_container {
+    position:absolute;
+    left:222px;
+    top:93px;
+    width:712px;
+    height:75px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:718px;
+    height:81px;
+}
+
+.u7 {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:710px;
+    height:68px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../SideNav_Overlay_files/u9_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:30px;
+    top:91px;
+    width:176px;
+    height:673px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:679px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:329px;
+    width:172px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:796px;
+    top:309px;
+    width:138px;
+    height:33px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:39px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:134px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:222px;
+    top:736px;
+    width:180px;
+    height:126px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:132px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:56px;
+    width:176px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:222px;
+    top:1002px;
+    width:121px;
+    height:14px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:20px;
+}
+
+.u16 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:121px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:222px;
+    top:1021px;
+    width:433px;
+    height:14px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:439px;
+    height:20px;
+}
+
+.u18 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:433px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u17_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:222px;
+    top:1038px;
+    width:433px;
+    height:14px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:439px;
+    height:20px;
+}
+
+.u20 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:403px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:796px;
+    top:637px;
+    width:138px;
+    height:14px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u22 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u21_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:796px;
+    top:657px;
+    width:138px;
+    height:14px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u24 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u21_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:796px;
+    top:678px;
+    width:138px;
+    height:14px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u26 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:796px;
+    top:537px;
+    width:138px;
+    height:85px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:91px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:134px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:222px;
+    top:686px;
+    width:554px;
+    height:36px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:560px;
+    height:42px;
+}
+
+.u30 {
+    position:absolute;
+    left:10px;
+    top:4px;
+    width:542px;
+    height:29px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u31_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:786px;
+    top:175px;
+    width:36px;
+    height:39px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:42px;
+    height:45px;
+}
+
+.u32 {
+    position:absolute;
+    left:20px;
+    top:12px;
+    width:6px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u33_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:742px;
+    top:175px;
+    width:33px;
+    height:39px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:39px;
+    height:45px;
+}
+
+.u34 {
+    position:absolute;
+    left:10px;
+    top:12px;
+    width:13px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:766px;
+    top:175px;
+    width:32px;
+    height:39px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 14px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u36_mouseOver {
+    background-image: url('../MPDP_Cant_Ship_750_files/Continue_u36_mouseOver.png');
+}
+
+.u36_mouseDown {
+    background-image: url('../MPDP_Cant_Ship_750_files/Continue_u36_mouseDown.png');
+}
+
+.u36_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/Continue_u36_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:839px;
+    top:175px;
+    width:95px;
+    height:40px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:101px;
+    height:46px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:91px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u38_container {
+    position:absolute;
+    left:839px;
+    top:218px;
+    width:95px;
+    height:8px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:101px;
+    height:14px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:91px;
+    height:9px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_container {
+    position:absolute;
+    left:222px;
+    top:175px;
+    width:30px;
+    height:30px;
+}
+
+#u40_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u27_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:796px;
+    top:405px;
+    width:138px;
+    height:85px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:91px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:134px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_line {
+    background-image: url('../MPDP_Cant_Ship_750_files/u44_line.png');
+}
+
+.u44_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:432px;
+    height:3px;
+}
+
+.u44 {
+    position:absolute;
+    left:222px;
+    top:898px;
+    width:432px;
+    height:10px;
+    
+}
+
+.u45_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u45_container {
+    position:absolute;
+    left:760px;
+    top:218px;
+    width:45px;
+    height:8px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:51px;
+    height:14px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:41px;
+    height:9px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u47_container {
+    position:absolute;
+    left:657px;
+    top:194px;
+    width:53px;
+    height:22px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:59px;
+    height:28px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:49px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_line {
+    background-image: url('../MPDP_Cant_Ship_750_files/u49_line.png');
+}
+
+.u49_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:37px;
+    height:3px;
+}
+
+.u49 {
+    position:absolute;
+    left:665px;
+    top:201px;
+    width:37px;
+    height:10px;
+    
+}
+
+.u50_mouseOver {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u50_mouseDown {
+    background-image: url('../MPDP_Cant_Ship_750_files/btn___rate___PDP_u50_mouseDown.png');
+}
+
+.u50_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u50_container {
+    position:absolute;
+    left:796px;
+    top:349px;
+    width:138px;
+    height:18px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:24px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:134px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u52_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:692px;
+    top:686px;
+    width:84px;
+    height:84px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:90px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:80px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54 {
+    position:absolute;
+    left:410px;
+    top:736px;
+    width:282px;
+    height:54px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55 {
+    position:absolute;
+    left:410px;
+    top:790px;
+    width:366px;
+    height:54px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u56_container {
+    position:absolute;
+    left:714px;
+    top:176px;
+    width:19px;
+    height:38px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:44px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:15px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58 {
+    position:absolute;
+    left:603px;
+    top:302px;
+    width:179px;
+    height:72px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_mouseDown {
+    background-image: url('../MPDP_Cant_Ship_750_files/u59_mouseDown.png');
+}
+
+.u59_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u59_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:603px;
+    top:178px;
+    width:43px;
+    height:34px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:49px;
+    height:40px;
+}
+
+.u60 {
+    position:absolute;
+    left:1px;
+    top:6px;
+    width:42px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:222px;
+    top:400px;
+    width:430px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62 {
+    position:absolute;
+    left:222px;
+    top:448px;
+    width:534px;
+    height:54px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_mouseOver {
+    background-image: url('../MPDP_Cant_Ship_750_files/Continue_u63_mouseOver.png');
+}
+
+.u63_mouseDown {
+    background-image: url('../MPDP_Cant_Ship_750_files/Continue_u63_mouseDown.png');
+}
+
+.u63_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/Continue_u63_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:839px;
+    top:243px;
+    width:95px;
+    height:35px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:101px;
+    height:41px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:91px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u65_container {
+    position:absolute;
+    left:841px;
+    top:281px;
+    width:93px;
+    height:8px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:99px;
+    height:14px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:89px;
+    height:9px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u67_container {
+    position:absolute;
+    left:742px;
+    top:281px;
+    width:80px;
+    height:8px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:14px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:76px;
+    height:9px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_mouseDown {
+    background-image: url('../MPDP_Cant_Ship_750_files/u59_mouseDown.png');
+}
+
+.u69_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u59_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:603px;
+    top:244px;
+    width:43px;
+    height:34px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:49px;
+    height:40px;
+}
+
+.u70 {
+    position:absolute;
+    left:1px;
+    top:6px;
+    width:42px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u71_container {
+    position:absolute;
+    left:657px;
+    top:176px;
+    width:53px;
+    height:26px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:59px;
+    height:32px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:49px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u73_normal.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:786px;
+    top:243px;
+    width:36px;
+    height:34px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:42px;
+    height:40px;
+}
+
+.u74 {
+    position:absolute;
+    left:20px;
+    top:10px;
+    width:6px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u75_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:742px;
+    top:243px;
+    width:33px;
+    height:34px;
+}
+
+#u75_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:39px;
+    height:40px;
+}
+
+.u76 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:13px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77 {
+    position:absolute;
+    left:766px;
+    top:243px;
+    width:32px;
+    height:34px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 14px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u78_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u78_container {
+    position:absolute;
+    left:657px;
+    top:260px;
+    width:53px;
+    height:22px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:59px;
+    height:28px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:49px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_line {
+    background-image: url('../MPDP_Cant_Ship_750_files/u80_line.png');
+}
+
+.u80_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:37px;
+    height:3px;
+}
+
+.u80 {
+    position:absolute;
+    left:665px;
+    top:267px;
+    width:37px;
+    height:10px;
+    
+}
+
+.u81_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u81_container {
+    position:absolute;
+    left:714px;
+    top:246px;
+    width:19px;
+    height:31px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:37px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:15px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u83_container {
+    position:absolute;
+    left:657px;
+    top:242px;
+    width:53px;
+    height:26px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:59px;
+    height:32px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:49px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u21_normal.png');
+}
+
+.u85_container {
+    position:absolute;
+    left:796px;
+    top:831px;
+    width:138px;
+    height:14px;
+}
+
+#u85_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u86 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u21_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:796px;
+    top:851px;
+    width:138px;
+    height:14px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u88 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u21_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:796px;
+    top:873px;
+    width:138px;
+    height:14px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u90 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u27_normal.png');
+}
+
+.u91_container {
+    position:absolute;
+    left:796px;
+    top:731px;
+    width:138px;
+    height:85px;
+}
+
+#u91_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:91px;
+}
+
+.u92 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:134px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93 {
+    position:absolute;
+    left:410px;
+    top:849px;
+    width:81px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u15_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:222px;
+    top:1066px;
+    width:121px;
+    height:14px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:20px;
+}
+
+.u95 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:121px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u17_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:222px;
+    top:1085px;
+    width:433px;
+    height:14px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:439px;
+    height:20px;
+}
+
+.u97 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:433px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u17_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:222px;
+    top:1102px;
+    width:433px;
+    height:14px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:439px;
+    height:20px;
+}
+
+.u99 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:403px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u100_container {
+    position:absolute;
+    left:222px;
+    top:932px;
+    width:302px;
+    height:14px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:308px;
+    height:20px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:298px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u102 {
+    position:absolute;
+    left:222px;
+    top:956px;
+    width:20px;
+    height:15px;
+    overflow:hidden;
+}
+
+#pd0u102 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:20px;
+    height:15px;
+    
+}
+
+.u103 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:195px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u104 {
+    position:absolute;
+    left:222px;
+    top:956px;
+    width:328px;
+    height:30px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Times';
+    font-size: 13px;
+    color:#666666;
+    font-style:italic;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u105_mouseOver {
+    background-image: url('../MPDP_Cant_Ship_750_files/btn___submitComment___PDP_u105_mouseOver.png');
+}
+
+.u105_mouseDown {
+    background-image: url('../MPDP_Cant_Ship_750_files/btn___submitComment___PDP_u105_mouseDown.png');
+}
+
+.u105_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/btn___submitComment___PDP_u105_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:550px;
+    top:956px;
+    width:105px;
+    height:29px;
+}
+
+#u105_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:35px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:101px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u107_normal.png');
+}
+
+.u107_container {
+    position:absolute;
+    left:222px;
+    top:357px;
+    width:366px;
+    height:24px;
+}
+
+#u107_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:366px;
+    height:24px;
+}
+
+.u108 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:362px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u109_normal.png');
+}
+
+.u109_container {
+    position:absolute;
+    left:222px;
+    top:529px;
+    width:554px;
+    height:118px;
+}
+
+#u109_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:560px;
+    height:124px;
+}
+
+.u110 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:524px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111 {
+    position:absolute;
+    left:234px;
+    top:546px;
+    width:80px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112 {
+    position:absolute;
+    left:233px;
+    top:578px;
+    width:523px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u113 {
+    position:absolute;
+    left:234px;
+    top:618px;
+    width:215px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114 {
+    position:absolute;
+    left:446px;
+    top:618px;
+    width:276px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u115_normal.png');
+}
+
+.u115_container {
+    position:absolute;
+    left:386px;
+    top:543px;
+    width:60px;
+    height:22px;
+}
+
+#u115_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:22px;
+}
+
+.u116 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u117_normal.png');
+}
+
+.u117_container {
+    position:absolute;
+    left:316px;
+    top:543px;
+    width:60px;
+    height:22px;
+}
+
+#u117_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:22px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u119_normal.png');
+}
+
+.u119_container {
+    position:absolute;
+    left:457px;
+    top:543px;
+    width:60px;
+    height:22px;
+}
+
+#u119_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:22px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u121_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u121_normal.png');
+}
+
+.u121_container {
+    position:absolute;
+    left:527px;
+    top:543px;
+    width:60px;
+    height:22px;
+}
+
+#u121_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:22px;
+}
+
+.u122 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u123 {
+    position:absolute;
+    left:337px;
+    top:359px;
+    width:78px;
+    height:21px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u124 {
+    position:absolute;
+    left:422px;
+    top:359px;
+    width:75px;
+    height:21px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u125 {
+    position:absolute;
+    left:507px;
+    top:359px;
+    width:75px;
+    height:21px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u126 {
+    position:absolute;
+    left:30px;
+    top:20px;
+    width:823px;
+    height:31px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u127c0 {
+    background-image: url('../MPDP_Cant_Ship_750_files/u127c0.png');
+}
+
+.u127c0 {
+    position:absolute;
+    left:972px;
+    top:744.8px;
+    width:20px;
+    height:14.2px;
+}
+
+.u127c1 {
+    background-image: url('../MPDP_Cant_Ship_750_files/u127c1.png');
+}
+
+.u127c1 {
+    position:absolute;
+    left:972px;
+    top:744.8px;
+    width:114px;
+    height:20px;
+}
+
+.u127c2 {
+    background-image: url('../MPDP_Cant_Ship_750_files/u127c2.png');
+}
+
+.u127c2 {
+    position:absolute;
+    left:1066px;
+    top:744px;
+    width:20px;
+    height:20.8px;
+}
+
+.u127c3 {
+    background-image: url('../MPDP_Cant_Ship_750_files/u127c3.png');
+}
+
+.u127c3 {
+    position:absolute;
+    left:1066px;
+    top:744px;
+    width:154px;
+    height:20px;
+}
+
+.u128 {
+    position:absolute;
+    left:66px;
+    top:-8px;
+    width:100px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u0_normal.png');
+}
+
+.u129_container {
+    position:absolute;
+    left:1226px;
+    top:71px;
+    width:960px;
+    height:1198px;
+}
+
+#u129_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:1204px;
+}
+
+.u130 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:930px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u2_normal.png');
+}
+
+.u131_container {
+    position:absolute;
+    left:1236px;
+    top:91px;
+    width:940px;
+    height:1134px;
+}
+
+#u131_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:946px;
+    height:1140px;
+}
+
+.u132 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:910px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u4_normal.png');
+}
+
+.u133_container {
+    position:absolute;
+    left:1428px;
+    top:175px;
+    width:365px;
+    height:205px;
+}
+
+#u133_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:371px;
+    height:211px;
+}
+
+.u134 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:335px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u135_container {
+    position:absolute;
+    left:1428px;
+    top:93px;
+    width:712px;
+    height:75px;
+}
+
+#u135_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:718px;
+    height:81px;
+}
+
+.u136 {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:710px;
+    height:68px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137_normal {
+    background-image: url('../SideNav_Overlay_files/u9_normal.png');
+}
+
+.u137_container {
+    position:absolute;
+    left:1236px;
+    top:91px;
+    width:176px;
+    height:673px;
+}
+
+#u137_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:679px;
+}
+
+.u138 {
+    position:absolute;
+    left:2px;
+    top:329px;
+    width:172px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u11_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:2002px;
+    top:309px;
+    width:138px;
+    height:33px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:39px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:134px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u13_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:1428px;
+    top:736px;
+    width:180px;
+    height:126px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:132px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:56px;
+    width:176px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u15_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:1428px;
+    top:1002px;
+    width:121px;
+    height:14px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:20px;
+}
+
+.u145 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:121px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u17_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:1428px;
+    top:1021px;
+    width:433px;
+    height:14px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:439px;
+    height:20px;
+}
+
+.u147 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:433px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u17_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:1428px;
+    top:1038px;
+    width:433px;
+    height:14px;
+}
+
+#u148_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:439px;
+    height:20px;
+}
+
+.u149 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:403px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u21_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:2002px;
+    top:637px;
+    width:138px;
+    height:14px;
+}
+
+#u150_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u151 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u21_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:2002px;
+    top:657px;
+    width:138px;
+    height:14px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u153 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u21_normal.png');
+}
+
+.u154_container {
+    position:absolute;
+    left:2002px;
+    top:678px;
+    width:138px;
+    height:14px;
+}
+
+#u154_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u155 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u27_normal.png');
+}
+
+.u156_container {
+    position:absolute;
+    left:2002px;
+    top:537px;
+    width:138px;
+    height:85px;
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:91px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:134px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u29_normal.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:1428px;
+    top:686px;
+    width:554px;
+    height:36px;
+}
+
+#u158_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:560px;
+    height:42px;
+}
+
+.u159 {
+    position:absolute;
+    left:10px;
+    top:4px;
+    width:542px;
+    height:29px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u31_normal.png');
+}
+
+.u160_container {
+    position:absolute;
+    left:1992px;
+    top:175px;
+    width:36px;
+    height:39px;
+}
+
+#u160_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:42px;
+    height:45px;
+}
+
+.u161 {
+    position:absolute;
+    left:20px;
+    top:12px;
+    width:6px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u33_normal.png');
+}
+
+.u162_container {
+    position:absolute;
+    left:1948px;
+    top:175px;
+    width:33px;
+    height:39px;
+}
+
+#u162_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:39px;
+    height:45px;
+}
+
+.u163 {
+    position:absolute;
+    left:10px;
+    top:12px;
+    width:13px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164 {
+    position:absolute;
+    left:1972px;
+    top:175px;
+    width:32px;
+    height:39px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 14px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u165_mouseOver {
+    background-image: url('../MPDP_Cant_Ship_750_files/Continue_u36_mouseOver.png');
+}
+
+.u165_mouseDown {
+    background-image: url('../MPDP_Cant_Ship_750_files/Continue_u36_mouseDown.png');
+}
+
+.u165_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/Continue_u36_normal.png');
+}
+
+.u165_container {
+    position:absolute;
+    left:2046px;
+    top:175px;
+    width:95px;
+    height:40px;
+}
+
+#u165_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:101px;
+    height:46px;
+}
+
+.u166 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:91px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u167_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u167_container {
+    position:absolute;
+    left:2046px;
+    top:281px;
+    width:95px;
+    height:8px;
+}
+
+#u167_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:101px;
+    height:14px;
+}
+
+.u168 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:91px;
+    height:9px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169_container {
+    position:absolute;
+    left:1428px;
+    top:175px;
+    width:30px;
+    height:30px;
+}
+
+#u169_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u170 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u171_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u27_normal.png');
+}
+
+.u171_container {
+    position:absolute;
+    left:2002px;
+    top:405px;
+    width:138px;
+    height:85px;
+}
+
+#u171_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:91px;
+}
+
+.u172 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:134px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u173_line {
+    background-image: url('../MPDP_Cant_Ship_750_files/u173_line.png');
+}
+
+.u173_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:432px;
+    height:3px;
+}
+
+.u173 {
+    position:absolute;
+    left:1428px;
+    top:898px;
+    width:432px;
+    height:10px;
+    
+}
+
+.u174_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u174_container {
+    position:absolute;
+    left:1966px;
+    top:281px;
+    width:45px;
+    height:8px;
+}
+
+#u174_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:51px;
+    height:14px;
+}
+
+.u175 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:41px;
+    height:9px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u176_container {
+    position:absolute;
+    left:1864px;
+    top:194px;
+    width:53px;
+    height:22px;
+}
+
+#u176_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:59px;
+    height:28px;
+}
+
+.u177 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:49px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178_line {
+    background-image: url('../MPDP_Cant_Ship_750_files/u178_line.png');
+}
+
+.u178_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:37px;
+    height:3px;
+}
+
+.u178 {
+    position:absolute;
+    left:1872px;
+    top:201px;
+    width:37px;
+    height:10px;
+    
+}
+
+.u179_mouseOver {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u179_mouseDown {
+    background-image: url('../MPDP_Cant_Ship_750_files/btn___rate___PDP_u50_mouseDown.png');
+}
+
+.u179_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u179_container {
+    position:absolute;
+    left:2002px;
+    top:349px;
+    width:138px;
+    height:18px;
+}
+
+#u179_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:24px;
+}
+
+.u180 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:134px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u181_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u52_normal.png');
+}
+
+.u181_container {
+    position:absolute;
+    left:1898px;
+    top:686px;
+    width:84px;
+    height:84px;
+}
+
+#u181_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:90px;
+}
+
+.u182 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:80px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183 {
+    position:absolute;
+    left:1616px;
+    top:736px;
+    width:282px;
+    height:54px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184 {
+    position:absolute;
+    left:1616px;
+    top:790px;
+    width:366px;
+    height:54px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u185_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u185_container {
+    position:absolute;
+    left:1920px;
+    top:176px;
+    width:19px;
+    height:38px;
+}
+
+#u185_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:44px;
+}
+
+.u186 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:15px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u187 {
+    position:absolute;
+    left:1810px;
+    top:302px;
+    width:179px;
+    height:72px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188_mouseDown {
+    background-image: url('../MPDP_Cant_Ship_750_files/u59_mouseDown.png');
+}
+
+.u188_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u59_normal.png');
+}
+
+.u188_container {
+    position:absolute;
+    left:1810px;
+    top:178px;
+    width:43px;
+    height:34px;
+}
+
+#u188_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:49px;
+    height:40px;
+}
+
+.u189 {
+    position:absolute;
+    left:1px;
+    top:6px;
+    width:42px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190 {
+    position:absolute;
+    left:1428px;
+    top:400px;
+    width:430px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u191 {
+    position:absolute;
+    left:1428px;
+    top:448px;
+    width:534px;
+    height:54px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192_mouseOver {
+    background-image: url('../MPDP_Cant_Ship_750_files/Continue_u63_mouseOver.png');
+}
+
+.u192_mouseDown {
+    background-image: url('../MPDP_Cant_Ship_750_files/Continue_u63_mouseDown.png');
+}
+
+.u192_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/Continue_u63_normal.png');
+}
+
+.u192_container {
+    position:absolute;
+    left:2046px;
+    top:243px;
+    width:95px;
+    height:35px;
+}
+
+#u192_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:101px;
+    height:41px;
+}
+
+.u193 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:91px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u194_mouseDown {
+    background-image: url('../MPDP_Cant_Ship_750_files/u59_mouseDown.png');
+}
+
+.u194_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u59_normal.png');
+}
+
+.u194_container {
+    position:absolute;
+    left:1810px;
+    top:244px;
+    width:43px;
+    height:34px;
+}
+
+#u194_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:49px;
+    height:40px;
+}
+
+.u195 {
+    position:absolute;
+    left:1px;
+    top:6px;
+    width:42px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u196_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u196_container {
+    position:absolute;
+    left:1864px;
+    top:176px;
+    width:53px;
+    height:26px;
+}
+
+#u196_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:59px;
+    height:32px;
+}
+
+.u197 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:49px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u198_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u73_normal.png');
+}
+
+.u198_container {
+    position:absolute;
+    left:1992px;
+    top:243px;
+    width:36px;
+    height:34px;
+}
+
+#u198_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:42px;
+    height:40px;
+}
+
+.u199 {
+    position:absolute;
+    left:20px;
+    top:10px;
+    width:6px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u200_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u75_normal.png');
+}
+
+.u200_container {
+    position:absolute;
+    left:1948px;
+    top:243px;
+    width:33px;
+    height:34px;
+}
+
+#u200_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:39px;
+    height:40px;
+}
+
+.u201 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:13px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u202 {
+    position:absolute;
+    left:1972px;
+    top:243px;
+    width:32px;
+    height:34px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 14px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u203_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u203_container {
+    position:absolute;
+    left:1864px;
+    top:260px;
+    width:53px;
+    height:22px;
+}
+
+#u203_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:59px;
+    height:28px;
+}
+
+.u204 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:49px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u205_line {
+    background-image: url('../MPDP_Cant_Ship_750_files/u205_line.png');
+}
+
+.u205_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:37px;
+    height:3px;
+}
+
+.u205 {
+    position:absolute;
+    left:1872px;
+    top:267px;
+    width:37px;
+    height:10px;
+    
+}
+
+.u206_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u206_container {
+    position:absolute;
+    left:1920px;
+    top:246px;
+    width:19px;
+    height:31px;
+}
+
+#u206_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:37px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:15px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u208_container {
+    position:absolute;
+    left:1864px;
+    top:242px;
+    width:53px;
+    height:26px;
+}
+
+#u208_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:59px;
+    height:32px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:49px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u21_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:2002px;
+    top:831px;
+    width:138px;
+    height:14px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u211 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u212_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u21_normal.png');
+}
+
+.u212_container {
+    position:absolute;
+    left:2002px;
+    top:851px;
+    width:138px;
+    height:14px;
+}
+
+#u212_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u213 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u214_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u21_normal.png');
+}
+
+.u214_container {
+    position:absolute;
+    left:2002px;
+    top:873px;
+    width:138px;
+    height:14px;
+}
+
+#u214_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u215 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u216_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u27_normal.png');
+}
+
+.u216_container {
+    position:absolute;
+    left:2002px;
+    top:731px;
+    width:138px;
+    height:85px;
+}
+
+#u216_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:91px;
+}
+
+.u217 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:134px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u218 {
+    position:absolute;
+    left:1616px;
+    top:849px;
+    width:81px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u219_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u15_normal.png');
+}
+
+.u219_container {
+    position:absolute;
+    left:1428px;
+    top:1066px;
+    width:121px;
+    height:14px;
+}
+
+#u219_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:20px;
+}
+
+.u220 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:121px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u221_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u17_normal.png');
+}
+
+.u221_container {
+    position:absolute;
+    left:1428px;
+    top:1085px;
+    width:433px;
+    height:14px;
+}
+
+#u221_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:439px;
+    height:20px;
+}
+
+.u222 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:433px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u223_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u17_normal.png');
+}
+
+.u223_container {
+    position:absolute;
+    left:1428px;
+    top:1102px;
+    width:433px;
+    height:14px;
+}
+
+#u223_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:439px;
+    height:20px;
+}
+
+.u224 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:403px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u225_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u225_container {
+    position:absolute;
+    left:1428px;
+    top:932px;
+    width:302px;
+    height:14px;
+}
+
+#u225_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:308px;
+    height:20px;
+}
+
+.u226 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:298px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u227 {
+    position:absolute;
+    left:1428px;
+    top:956px;
+    width:20px;
+    height:15px;
+    overflow:hidden;
+}
+
+#pd0u227 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:20px;
+    height:15px;
+    
+}
+
+.u228 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:195px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u229 {
+    position:absolute;
+    left:1428px;
+    top:956px;
+    width:328px;
+    height:30px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Times';
+    font-size: 13px;
+    color:#666666;
+    font-style:italic;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u230_mouseOver {
+    background-image: url('../MPDP_Cant_Ship_750_files/btn___submitComment___PDP_u105_mouseOver.png');
+}
+
+.u230_mouseDown {
+    background-image: url('../MPDP_Cant_Ship_750_files/btn___submitComment___PDP_u105_mouseDown.png');
+}
+
+.u230_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/btn___submitComment___PDP_u105_normal.png');
+}
+
+.u230_container {
+    position:absolute;
+    left:1756px;
+    top:956px;
+    width:105px;
+    height:29px;
+}
+
+#u230_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:35px;
+}
+
+.u231 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:101px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u232_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u107_normal.png');
+}
+
+.u232_container {
+    position:absolute;
+    left:1428px;
+    top:357px;
+    width:366px;
+    height:24px;
+}
+
+#u232_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:366px;
+    height:24px;
+}
+
+.u233 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:362px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u234_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u109_normal.png');
+}
+
+.u234_container {
+    position:absolute;
+    left:1428px;
+    top:529px;
+    width:554px;
+    height:118px;
+}
+
+#u234_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:560px;
+    height:124px;
+}
+
+.u235 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:524px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u236 {
+    position:absolute;
+    left:1440px;
+    top:546px;
+    width:80px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u237 {
+    position:absolute;
+    left:1440px;
+    top:578px;
+    width:523px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u238 {
+    position:absolute;
+    left:1440px;
+    top:618px;
+    width:215px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u239 {
+    position:absolute;
+    left:1652px;
+    top:618px;
+    width:276px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u240_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u115_normal.png');
+}
+
+.u240_container {
+    position:absolute;
+    left:1592px;
+    top:543px;
+    width:60px;
+    height:22px;
+}
+
+#u240_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:22px;
+}
+
+.u241 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u242_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u117_normal.png');
+}
+
+.u242_container {
+    position:absolute;
+    left:1522px;
+    top:543px;
+    width:60px;
+    height:22px;
+}
+
+#u242_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:22px;
+}
+
+.u243 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u244_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u119_normal.png');
+}
+
+.u244_container {
+    position:absolute;
+    left:1664px;
+    top:543px;
+    width:60px;
+    height:22px;
+}
+
+#u244_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:22px;
+}
+
+.u245 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u246_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u121_normal.png');
+}
+
+.u246_container {
+    position:absolute;
+    left:1734px;
+    top:543px;
+    width:60px;
+    height:22px;
+}
+
+#u246_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:22px;
+}
+
+.u247 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u248 {
+    position:absolute;
+    left:1544px;
+    top:359px;
+    width:78px;
+    height:21px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u249 {
+    position:absolute;
+    left:1628px;
+    top:359px;
+    width:75px;
+    height:21px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u250 {
+    position:absolute;
+    left:1714px;
+    top:359px;
+    width:75px;
+    height:21px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u251_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u251_normal.png');
+}
+
+.u251_container {
+    position:absolute;
+    left:1226px;
+    top:302px;
+    width:959px;
+    height:967px;
+}
+
+#u251_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:965px;
+    height:973px;
+}
+
+.u252 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:929px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u253_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u253_normal.png');
+}
+
+.u253_container {
+    position:absolute;
+    left:1864px;
+    top:171px;
+    width:289px;
+    height:49px;
+}
+
+#u253_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:295px;
+    height:55px;
+}
+
+.u254 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:285px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u255_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u255_normal.png');
+}
+
+.u255_container {
+    position:absolute;
+    left:1226px;
+    top:71px;
+    width:959px;
+    height:90px;
+}
+
+#u255_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:965px;
+    height:96px;
+}
+
+.u256 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:929px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u257_normal {
+    background-image: url('../MPDP_Cant_Ship_750_files/u257_normal.png');
+}
+
+.u257_container {
+    position:absolute;
+    left:1226px;
+    top:161px;
+    width:571px;
+    height:140px;
+}
+
+#u257_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:577px;
+    height:146px;
+}
+
+.u258 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:541px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u259 {
+    position:absolute;
+    left:1864px;
+    top:194px;
+    width:98px;
+    height:13px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+

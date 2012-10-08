@@ -1750,7 +1750,7 @@ div {
     left:11px;
     top:583px;
     width:910px;
-    height:93px;
+    height:126px;
 }
 
 #u100_img {
@@ -1758,7 +1758,7 @@ div {
     left:-3px;
     top:-3px;
     width:916px;
-    height:99px;
+    height:132px;
 }
 
 .u101 {
@@ -1776,7 +1776,7 @@ div {
 }
 
 .u102_normal {
-    background-image: url('../ChangeLog_files/u100_normal.png');
+    background-image: url('../ChangeLog_files/u102_normal.png');
 }
 
 .u102_container {
@@ -3711,13 +3711,13 @@ div {
 }
 
 .u228_normal {
-    background-image: url('../ChangeLog_files/u100_normal.png');
+    background-image: url('../ChangeLog_files/u102_normal.png');
 }
 
 .u228_container {
     position:absolute;
     left:10px;
-    top:746px;
+    top:776px;
     width:910px;
     height:93px;
 }
@@ -3924,7 +3924,7 @@ div {
     left:356px;
     top:594px;
     width:565px;
-    height:90px;
+    height:108px;
     ;
     ;
     ;
@@ -3936,7 +3936,7 @@ div {
 .u242 {
     position:absolute;
     left:20px;
-    top:689px;
+    top:719px;
     width:122px;
     height:18px;
     ;
@@ -3950,7 +3950,7 @@ div {
 .u243 {
     position:absolute;
     left:168px;
-    top:689px;
+    top:719px;
     width:69px;
     height:18px;
     ;
@@ -3964,7 +3964,7 @@ div {
 .u244 {
     position:absolute;
     left:266px;
-    top:689px;
+    top:719px;
     width:70px;
     height:18px;
     ;
@@ -3978,7 +3978,7 @@ div {
 .u245 {
     position:absolute;
     left:356px;
-    top:689px;
+    top:719px;
     width:565px;
     height:36px;
     ;
@@ -3992,7 +3992,7 @@ div {
 .u246 {
     position:absolute;
     left:20px;
-    top:756px;
+    top:786px;
     width:122px;
     height:18px;
     ;
@@ -4006,7 +4006,7 @@ div {
 .u247 {
     position:absolute;
     left:168px;
-    top:756px;
+    top:786px;
     width:69px;
     height:18px;
     ;
@@ -4020,7 +4020,7 @@ div {
 .u248 {
     position:absolute;
     left:266px;
-    top:756px;
+    top:786px;
     width:70px;
     height:18px;
     ;
@@ -4034,7 +4034,7 @@ div {
 .u249 {
     position:absolute;
     left:356px;
-    top:756px;
+    top:786px;
     width:565px;
     height:72px;
     ;

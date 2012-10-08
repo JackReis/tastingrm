@@ -1,10 +1,21 @@
-﻿for(var i = 0; i < 70; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 54; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
 
 });
-gv_vAlignTable['u50'] = 'center';gv_vAlignTable['u51'] = 'top';gv_vAlignTable['u52'] = 'top';gv_vAlignTable['u54'] = 'center';gv_vAlignTable['u56'] = 'center';gv_vAlignTable['u57'] = 'top';gv_vAlignTable['u59'] = 'top';u20.tabIndex = 0;
+gv_vAlignTable['u51'] = 'center';gv_vAlignTable['u52'] = 'top';u53.tabIndex = 0;
+
+u53.style.cursor = 'pointer';
+$axure.eventManager.click('u53', function(e) {
+
+if (true) {
+
+	NewWindow("resources/Other.html#other=" + encodeURI("Opens a new window with the Ship To states / explanation of these restrictions."), "", "directories=0, height=300, location=0, menubar=0, resizable=1, scrollbars=1, status=0, toolbar=0, width=300", true, 300, 300);
+
+}
+});
+gv_vAlignTable['u53'] = 'top';u20.tabIndex = 0;
 
 u20.style.cursor = 'pointer';
 $axure.eventManager.click('u20', function(e) {
@@ -85,18 +96,7 @@ SetWidgetFormText('u28', 'Enter Your ZIP Code…');
 
 }
 });
-gv_vAlignTable['u61'] = 'center';gv_vAlignTable['u63'] = 'center';gv_vAlignTable['u65'] = 'center';gv_vAlignTable['u66'] = 'top';gv_vAlignTable['u68'] = 'center';u69.tabIndex = 0;
-
-u69.style.cursor = 'pointer';
-$axure.eventManager.click('u69', function(e) {
-
-if (true) {
-
-	NewWindow("resources/Other.html#other=" + encodeURI("Opens a new window with the Ship To states / explanation of these restrictions."), "", "directories=0, height=300, location=0, menubar=0, resizable=1, scrollbars=1, status=0, toolbar=0, width=300", true, 300, 300);
-
-}
-});
-gv_vAlignTable['u69'] = 'top';gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u32'] = 'center';gv_vAlignTable['u34'] = 'center';gv_vAlignTable['u35'] = 'top';u36.tabIndex = 0;
+gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u32'] = 'center';gv_vAlignTable['u34'] = 'center';gv_vAlignTable['u35'] = 'top';u36.tabIndex = 0;
 
 u36.style.cursor = 'pointer';
 $axure.eventManager.click('u36', function(e) {
@@ -112,21 +112,9 @@ HookClick('u37', false);
 u37.style.cursor = 'pointer';
 $axure.eventManager.click('u37', function(e) {
 
-if (false) {
+if (true) {
 
 SetGlobalVariableValue('CanWeShipVar', 'Yes');
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('ChangeLog.html');
-
-}
-
-if (false) {
-
-SetGlobalVariableValue('HasItem', 'Yes');
-
-SetGlobalVariableValue('CanWeShipVar', 'Yes');
-
-SetGlobalVariableValue('ItemsInCart', '' + (GetNum() + GetNum(GetGlobalVariableValue('ItemsInCart'))) + '');
 
 	self.location.href=$axure.globalVariableProvider.getLinkUrl('ChangeLog.html');
 
@@ -159,31 +147,7 @@ SetGlobalVariableValue('CanWeShipVar', 'No');
 
 }
 });
-gv_vAlignTable['u6'] = 'center';gv_vAlignTable['u8'] = 'center';gv_vAlignTable['u42'] = 'center';gv_vAlignTable['u40'] = 'top';gv_vAlignTable['u44'] = 'center';u48.tabIndex = 0;
-
-u48.style.cursor = 'pointer';
-$axure.eventManager.click('u48', function(e) {
-
-if (true) {
-
-}
-});
-gv_vAlignTable['u48'] = 'top';gv_vAlignTable['u46'] = 'center';gv_vAlignTable['u47'] = 'top';document.getElementById('u49_img').tabIndex = 0;
-HookHover('u49', false);
-HookClick('u49', false);
-
-u49.style.cursor = 'pointer';
-$axure.eventManager.click('u49', function(e) {
-
-if (true) {
-
-SetGlobalVariableValue('CanWeShipVar', 'Yes');
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('ChangeLog.html');
-
-}
-});
-gv_vAlignTable['u10'] = 'center';gv_vAlignTable['u13'] = 'center';gv_vAlignTable['u14'] = 'top';u15.tabIndex = 0;
+gv_vAlignTable['u6'] = 'center';gv_vAlignTable['u8'] = 'center';gv_vAlignTable['u42'] = 'center';gv_vAlignTable['u40'] = 'top';gv_vAlignTable['u45'] = 'top';gv_vAlignTable['u44'] = 'center';gv_vAlignTable['u47'] = 'top';gv_vAlignTable['u49'] = 'center';gv_vAlignTable['u10'] = 'center';gv_vAlignTable['u13'] = 'center';gv_vAlignTable['u14'] = 'top';u15.tabIndex = 0;
 
 u15.style.cursor = 'pointer';
 $axure.eventManager.click('u15', function(e) {

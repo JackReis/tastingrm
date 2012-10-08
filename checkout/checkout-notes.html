@@ -1,7 +1,7 @@
 <html>
 <head>    
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Site Refresh Notes</title>
+    <title>Checkout Notes</title>
     <meta name="format" content="complete"/>
     <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="http://www.tastingrm.com/css/reset.css" type="text/css" media="screen">
@@ -58,6 +58,50 @@
 <div id="content">
 <div class="notes">
 <h1>Checkout Refresh Notes</h1>
+<h4>Checkout Changes</h4>
+<h5>October 5, 2012 • Wireframe Review</h5>
+
+<ul>
+  <li><strong>Add To Cart - ZIP Entry Storyboard</strong></li>
+  <ul>
+    <li>Email harvest</li>
+      <ul>
+        <li>if we can't ship to the state, we message that "we cannot ship to [TEXAS] - please continue shopping; the items will be filtered to show only items that can be shipped to your state"</li>
+        <li>we will not harvest the email via this dialog</li>
+      </ul>
+  </ul>
+  <ul>
+    <li>Inventory Check</li>
+      <ul>
+        <li>Need to message to user previously whether we have the quantity requested on the PDP</li>
+        <li>if out of inventory before page renders, we won't show add to cart button, but if they were on the page when we ran out, we need to indicate they will not get the quantity requested</li></li>
+      </ul>
+  </ul>
+</ul>
+
+<ul>
+  <li><strong>View Cart</strong></li>
+  <ul>
+    <li>"Accidental" Empty Cart</li>
+      <ul>
+        <li>if something gets sold out while sitting on a cart, we message the user differently in a dialog comparable to the Blank State dialog but explain the issue and give a button that takes the user to the Shop page.</li>
+      </ul>
+    <li>Shipping messaging</li>
+      <ul>
+        <li>reserve actual changes to shipping method and date-specific information for Shipping Method panel. Note below the main area that we allow selection of accelerated shipping method later on.</li>
+      </ul>
+  </ul>
+</ul>
+<ul>
+  <li><strong>Accordion</strong></li>
+    <ul>
+      <li>one credit card only. if tries to add 2, we say, Are you sure you want to replace the current card?</li>
+      <li>need company fields for both addresses</li>
+      <li>address correction can break congruency</li>
+      <li>Billing before shipping</li>
+    </ul>
+</ul>
+
 <h4>Spec Review</h4>
 <h5>September 19, 2012</h5>
 
