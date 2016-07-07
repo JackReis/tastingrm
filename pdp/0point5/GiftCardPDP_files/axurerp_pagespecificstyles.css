@@ -1,0 +1,1559 @@
+﻿body {
+    margin: 0px;
+    text-align: center;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+    position: relative;
+    left: -20px;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../GiftCardPDP_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:20px;
+    top:90px;
+    width:960px;
+    height:902px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:908px;
+}
+
+.u1 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:930px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../GiftCardPDP_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:30px;
+    top:110px;
+    width:940px;
+    height:849px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:946px;
+    height:855px;
+}
+
+.u3 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:910px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:20px;
+    top:20px;
+    width:647px;
+    height:31px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../GiftCardPDP_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:222px;
+    top:194px;
+    width:365px;
+    height:205px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:371px;
+    height:211px;
+}
+
+.u6 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:335px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u7_container {
+    position:absolute;
+    left:222px;
+    top:112px;
+    width:712px;
+    height:75px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:718px;
+    height:81px;
+}
+
+.u8 {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:710px;
+    height:34px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../SideNav_Overlay_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:30px;
+    top:110px;
+    width:176px;
+    height:673px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:182px;
+    height:679px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:329px;
+    width:172px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../GiftCardPDP_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:222px;
+    top:670px;
+    width:121px;
+    height:14px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:20px;
+}
+
+.u13 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:121px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../GiftCardPDP_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:222px;
+    top:689px;
+    width:433px;
+    height:14px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:439px;
+    height:20px;
+}
+
+.u15 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:433px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../GiftCardPDP_files/u14_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:222px;
+    top:706px;
+    width:433px;
+    height:14px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:439px;
+    height:20px;
+}
+
+.u17 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:403px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../GiftCardPDP_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:796px;
+    top:660px;
+    width:138px;
+    height:14px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u19 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../GiftCardPDP_files/u18_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:796px;
+    top:680px;
+    width:138px;
+    height:14px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u21 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../GiftCardPDP_files/u18_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:796px;
+    top:701px;
+    width:138px;
+    height:14px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u23 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../GiftCardPDP_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:796px;
+    top:560px;
+    width:138px;
+    height:85px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:91px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:134px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../GiftCardPDP_files/u26_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:647px;
+    top:194px;
+    width:36px;
+    height:39px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:42px;
+    height:45px;
+}
+
+.u27 {
+    position:absolute;
+    left:20px;
+    top:12px;
+    width:6px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../GiftCardPDP_files/u28_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:603px;
+    top:194px;
+    width:33px;
+    height:39px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:39px;
+    height:45px;
+}
+
+.u29 {
+    position:absolute;
+    left:10px;
+    top:12px;
+    width:13px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:627px;
+    top:194px;
+    width:32px;
+    height:39px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 14px;
+    color:#666666;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u31_mouseOver {
+    background-image: url('../GiftCardPDP_files/btn___AddToCart___IGCPDP_u31_mouseOver.png');
+}
+
+.u31_mouseDown {
+    background-image: url('../GiftCardPDP_files/btn___AddToCart___IGCPDP_u31_mouseDown.png');
+}
+
+.u31_normal {
+    background-image: url('../GiftCardPDP_files/btn___AddToCart___IGCPDP_u31_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:603px;
+    top:257px;
+    width:153px;
+    height:50px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:159px;
+    height:56px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:149px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_container {
+    position:absolute;
+    left:222px;
+    top:194px;
+    width:30px;
+    height:30px;
+}
+
+#u33_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../GiftCardPDP_files/u24_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:796px;
+    top:428px;
+    width:138px;
+    height:85px;
+}
+
+#u35_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:91px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:134px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_line {
+    background-image: url('../GiftCardPDP_files/u37_line.png');
+}
+
+.u37_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:432px;
+    height:3px;
+}
+
+.u37 {
+    position:absolute;
+    left:222px;
+    top:566px;
+    width:432px;
+    height:10px;
+    
+}
+
+.u38 {
+    position:absolute;
+    left:603px;
+    top:340px;
+    width:330px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_mouseDown {
+    background-image: url('../GiftCardPDP_files/u39_mouseDown.png');
+}
+
+.u39_normal {
+    background-image: url('../GiftCardPDP_files/u39_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:729px;
+    top:196px;
+    width:107px;
+    height:38px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:44px;
+}
+
+.u40 {
+    position:absolute;
+    left:14px;
+    top:12px;
+    width:93px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../GiftCardPDP_files/u41_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:808px;
+    top:196px;
+    width:28px;
+    height:38px;
+}
+
+#u41_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:34px;
+    height:44px;
+}
+
+.u42 {
+    position:absolute;
+    left:20px;
+    top:11px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../GiftCardPDP_files/u18_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:796px;
+    top:854px;
+    width:138px;
+    height:14px;
+}
+
+#u43_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u44 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../GiftCardPDP_files/u18_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:796px;
+    top:874px;
+    width:138px;
+    height:14px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u46 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../GiftCardPDP_files/u18_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:796px;
+    top:896px;
+    width:138px;
+    height:14px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:20px;
+}
+
+.u48 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../GiftCardPDP_files/u24_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:796px;
+    top:754px;
+    width:138px;
+    height:85px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:91px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:35px;
+    width:134px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../GiftCardPDP_files/u12_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:222px;
+    top:734px;
+    width:121px;
+    height:14px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:127px;
+    height:20px;
+}
+
+.u52 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:121px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../GiftCardPDP_files/u14_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:222px;
+    top:753px;
+    width:433px;
+    height:14px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:439px;
+    height:20px;
+}
+
+.u54 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:433px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../GiftCardPDP_files/u14_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:222px;
+    top:770px;
+    width:433px;
+    height:14px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:439px;
+    height:20px;
+}
+
+.u56 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:403px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u57_container {
+    position:absolute;
+    left:222px;
+    top:600px;
+    width:302px;
+    height:14px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:308px;
+    height:20px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:298px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u59 {
+    position:absolute;
+    left:222px;
+    top:624px;
+    width:20px;
+    height:15px;
+    overflow:hidden;
+}
+
+#pd0u59 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:20px;
+    height:15px;
+    
+}
+
+.u60 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:195px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u61 {
+    position:absolute;
+    left:222px;
+    top:624px;
+    width:328px;
+    height:30px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Times';
+    font-size: 13px;
+    color:#666666;
+    font-style:italic;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u62_mouseOver {
+    background-image: url('../GiftCardPDP_files/btn___submitComment___PDP_u62_mouseOver.png');
+}
+
+.u62_mouseDown {
+    background-image: url('../GiftCardPDP_files/btn___submitComment___PDP_u62_mouseDown.png');
+}
+
+.u62_normal {
+    background-image: url('../GiftCardPDP_files/btn___submitComment___PDP_u62_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:550px;
+    top:624px;
+    width:105px;
+    height:29px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:111px;
+    height:35px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:101px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../GiftCardPDP_files/u64_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:222px;
+    top:376px;
+    width:366px;
+    height:24px;
+}
+
+#u64_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:366px;
+    height:24px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:362px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../GiftCardPDP_files/u66_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:222px;
+    top:428px;
+    width:554px;
+    height:118px;
+}
+
+#u66_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:560px;
+    height:124px;
+}
+
+.u67 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:524px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:234px;
+    top:445px;
+    width:80px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69 {
+    position:absolute;
+    left:233px;
+    top:477px;
+    width:523px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u70 {
+    position:absolute;
+    left:234px;
+    top:517px;
+    width:215px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:446px;
+    top:517px;
+    width:276px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../GiftCardPDP_files/u72_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:386px;
+    top:442px;
+    width:60px;
+    height:22px;
+}
+
+#u72_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:22px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../GiftCardPDP_files/u74_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:316px;
+    top:442px;
+    width:60px;
+    height:22px;
+}
+
+#u74_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:22px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../GiftCardPDP_files/u76_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:457px;
+    top:442px;
+    width:60px;
+    height:22px;
+}
+
+#u76_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:22px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../GiftCardPDP_files/u78_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:527px;
+    top:442px;
+    width:60px;
+    height:22px;
+}
+
+#u78_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:22px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u80 {
+    position:absolute;
+    left:337px;
+    top:378px;
+    width:78px;
+    height:21px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u81 {
+    position:absolute;
+    left:422px;
+    top:378px;
+    width:75px;
+    height:21px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u82 {
+    position:absolute;
+    left:507px;
+    top:378px;
+    width:75px;
+    height:21px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u83_normal {
+    background-image: url('../GiftCardPDP_files/u83_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:815px;
+    top:212px;
+    width:14px;
+    height:7px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:20px;
+    height:13px;
+}
+
+.u84 {
+    position:absolute;
+    left:20px;
+    top:15px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85_line {
+    background-image: url('../GiftCardPDP_files/u85_line.png');
+}
+
+.u85_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:38px;
+}
+
+.u85 {
+    position:absolute;
+    left:803px;
+    top:196px;
+    width:10px;
+    height:38px;
+    
+}
+
+#u86 {
+    position:absolute;
+    left:729px;
+    top:194px;
+    width:107px;
+    height:39px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u87_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u87_container {
+    position:absolute;
+    left:696px;
+    top:196px;
+    width:19px;
+    height:38px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:44px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:15px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u89_container {
+    position:absolute;
+    left:616px;
+    top:312px;
+    width:127px;
+    height:8px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:133px;
+    height:14px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:123px;
+    height:9px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

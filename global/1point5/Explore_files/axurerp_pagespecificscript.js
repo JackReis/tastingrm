@@ -126,7 +126,7 @@ $axure.eventManager.click('u230', function(e) {
 
 if (true) {
 
-	NewWindow("resources/Other.html#other=" + encodeURI("Takes user to My Account page.<BR>See Checkout Wireframes at http://www.tastingrm.com/checkout/checkout-prototypes.html for more"), "", "directories=0, height=300, location=0, menubar=0, resizable=1, scrollbars=1, status=0, toolbar=0, width=300", true, 300, 300);
+	NewWindow("resources/Other.html#other=" + encodeURI("Takes user to My Account page.<BR>See Checkout Wireframes at ../checkout/checkout-prototypes.html for more"), "", "directories=0, height=300, location=0, menubar=0, resizable=1, scrollbars=1, status=0, toolbar=0, width=300", true, 300, 300);
 
 }
 });
@@ -589,7 +589,7 @@ $axure.eventManager.click('u235', function(e) {
 
 if (true) {
 
-	NewWindow("resources/Other.html#other=" + encodeURI("Takes user to View Cart page.<BR>See Checkout Wireframes at http://www.tastingrm.com/checkout/checkout-prototypes.html for more"), "", "directories=0, height=300, location=0, menubar=0, resizable=1, scrollbars=1, status=0, toolbar=0, width=300", true, 300, 300);
+	NewWindow("resources/Other.html#other=" + encodeURI("Takes user to View Cart page.<BR>See Checkout Wireframes at ../checkout/checkout-prototypes.html for more"), "", "directories=0, height=300, location=0, menubar=0, resizable=1, scrollbars=1, status=0, toolbar=0, width=300", true, 300, 300);
 
 }
 });
@@ -1330,7 +1330,7 @@ $axure.eventManager.click('u229', function(e) {
 
 if (true) {
 
-	NewWindow("resources/Other.html#other=" + encodeURI("Takes user to View Cart page.<BR>See Checkout Wireframes at http://www.tastingrm.com/checkout/checkout-prototypes.html for more"), "", "directories=0, height=300, location=0, menubar=0, resizable=1, scrollbars=1, status=0, toolbar=0, width=300", true, 300, 300);
+	NewWindow("resources/Other.html#other=" + encodeURI("Takes user to View Cart page.<BR>See Checkout Wireframes at ../checkout/checkout-prototypes.html for more"), "", "directories=0, height=300, location=0, menubar=0, resizable=1, scrollbars=1, status=0, toolbar=0, width=300", true, 300, 300);
 
 }
 });

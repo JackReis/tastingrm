@@ -1,5 +1,0 @@
-authtype basic
-authgroupfile /dev/null
-authuserfile /home/content/t/a/s/tast4237/htconfig/.htpassword.ghtpassword
-authname "Secure Area"
-require user tastingroom
